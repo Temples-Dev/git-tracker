@@ -1,0 +1,13 @@
+{
+  "default_branch": "main",
+  "commit_templates": {
+    "fix": "fix: {message}",
+    "refactor": "refactor: {message}",
+    "style": "style: {message}",
+    "docs": "docs: {message}",
+    "feature": "feat: {message}",
+    "test": "test: {message}",
+    "chore": "chore: {message}"
+  },
+  "auto_push": true
+}
